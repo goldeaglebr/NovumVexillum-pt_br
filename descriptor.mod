@@ -1,0 +1,3 @@
+dependencies={
+    "Novum Vexillum"
+}
