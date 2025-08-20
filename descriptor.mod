@@ -1,8 +1,8 @@
-dependencies={
-    "Novum Vexillum"
+version="1.0"
+tags={
+	"Translation"
 }
-
-name="Novum Vexillum-pt_br"
+name="Novum Vexillum PT_BR"
 picture="novum_vexillum.png"
 supported_version="1.16.*"
-remote_file_id="1827273767"     // ### I believe this id needs to be changed ### //
+remote_file_id="2729512888"
